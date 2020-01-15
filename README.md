@@ -1,2 +1,2 @@
-# dev-radar
-10ª semana OmniStack da Rocketseat :rocket:
+# Dev Radar
+An app to search for devs next to you.
