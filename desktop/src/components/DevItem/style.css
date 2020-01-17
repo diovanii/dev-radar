@@ -1,0 +1,74 @@
+li.dev-item {
+  background-color: #FFF;
+  box-shadow: 0 0 14px 0 (0, 0, 0, 0.02);
+  border-radius: 5px;
+  padding: 30px;
+}
+
+li.dev-item header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+li.dev-item header img {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+}
+
+li.dev-item header .dev-info {
+  margin-left: 10px;
+}
+
+li.dev-item header .dev-info strong {
+  display: block;
+  font-size: 15px;
+  color: #555;
+}
+
+li.dev-item header .dev-info span {
+  font-size: 13px;
+  color: #999;
+}
+
+li.dev-item p {
+  color: #666;
+  font-size: 14px;
+  margin: 15px 0;
+}
+
+li.dev-item a {
+  color: #2998ff;
+  font-size: 14px;
+  display: inline-block;
+  text-decoration: none;
+  transition: all .5s;
+  padding: 8px;
+  border-bottom: 2px solid #2998ff;
+}
+
+li.dev-item a:hover {
+  color: #FFF;
+  background-color: #2998ff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  main ul {
+    grid-template-columns: 1fr;
+  }
+
+  li.dev-item {
+    text-align: center;
+  }
+
+  li.dev-item header {
+    flex-direction: column;
+  }
+
+  li.dev-item p {
+    margin: 30px 0;
+  }
+}
