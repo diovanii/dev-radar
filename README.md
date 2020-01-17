@@ -1,7 +1,5 @@
 # Dev Radar :artificial_satellite:
 
-* ##### [desktop version :computer:](#desktop-version)
-
 <br>
 
 ## The tenth OmniStack week from **[Rocketseat :rocket:](https://rocketseat.com.br)**
