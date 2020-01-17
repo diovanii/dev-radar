@@ -1,0 +1,83 @@
+aside {
+  width: 320px;
+  background: #FFF;
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+  border-radius: 5px;
+  padding: 30px 20px;
+}
+
+aside strong {
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  color: #555;
+}
+
+aside form {
+  margin-top: 30px;
+}
+
+aside form .input-group {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+}
+
+aside form .input-group [type=number],
+aside form .input-group [type=number]::-webkit-inner-spin-button,
+aside form .input-group [type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+  margin: 0;
+}
+
+aside form .input-block {
+  margin-top: 40px;
+}
+
+aside form .input-block label {
+  color: #BBB;
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+aside form .input-block input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 14px;
+  color: #666666;
+  border: 0;
+  box-shadow: none;
+  border-bottom: 2px solid #DCDCDC;
+  transition: all .3s;
+}
+
+
+aside form .input-block input:focus {
+  box-shadow: 0 16px 28px rgba(0, 0, 0, .1);
+  border-bottom: 2px solid #7D40E7;
+}
+
+aside form .input-block input:focus:invalid {
+  border-bottom: 2px solid #ff4d4d;
+}
+
+aside form button {
+  width: 100%;
+  border: 0;
+  margin-top: 30px;
+  background-color: #7D40E7;
+  border-radius: 5px;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+aside form button:hover {
+  background-color: #6931CA;
+}

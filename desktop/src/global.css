@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: #E5E6F0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body, input, button {
+  font-family: 'Source Sans Pro', sans-serif;
+}
