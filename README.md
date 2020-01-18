@@ -1,5 +1,8 @@
 # Dev Radar :artificial_satellite:
 
+* #### [Desktop version](#desktop-version)
+* #### [Mobile version](#mobile-version)
+
 <br>
 
 ## The tenth OmniStack week from **[Rocketseat :rocket:](https://rocketseat.com.br)**
@@ -8,10 +11,22 @@
 
 #### :computer: Desktop version
 
-In the desktop version you can register devs and see a list of registered devs.
+###### In the desktop version you can register developers and see a list of those that are registered
 
-![Desktop preview](desktop-preview.png)
+![Desktop preview](./previews/desktop.jpg)
 
+<br>
+---
+<br>
+
+### :iphone: Mobile version
+
+###### You can search for developers by technologies and view the GitHub profile of them
+
+![Mobile preview (main)](./previews/mobile-main.jpg)
+![Mobile preview (profile)](./previews/mobile-profile.jpg)
+
+<br>
 <br>
 <br>
 <br>

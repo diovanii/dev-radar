@@ -22,6 +22,7 @@ module.exports = {
       }
     })
 
-    return response.json({ devs })
+    console.log(devs)
+    return response.json(devs)
   }
 }
