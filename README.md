@@ -16,7 +16,9 @@
 ![Desktop preview](./previews/desktop.jpg)
 
 <br>
+
 ---
+
 <br>
 
 ### :iphone: Mobile version
