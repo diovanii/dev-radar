@@ -1,9 +1,12 @@
 # Dev Radar :artificial_satellite:
 
+![OmniStack](./previews/omnistack.jpg)
+
 * #### [Desktop version](#desktop-version)
 * #### [Mobile version](#mobile-version)
 
 <br>
+
 
 ## The tenth OmniStack week from **[Rocketseat :rocket:](https://rocketseat.com.br)**
 
